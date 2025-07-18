@@ -1,5 +1,5 @@
 # Sakshi Sahu's Portfolio  
-Hosted at: [https://sakshi2843.github.io](https://sakshi2843.github.io)  
+Hosted at: [https://sahu-sakshi.github.io/](https://sahu-sakshi.github.io/)  
 
 ## Features  
 - Responsive design (works on mobile/desktop)  
